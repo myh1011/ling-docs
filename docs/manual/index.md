@@ -43,11 +43,9 @@ lastUpdated: false
 - [Android 教程](/manual/deployment/android)
 - [Linux 教程](/manual/deployment/linux)
 
-由于新版 0.3.1 暂不完善，我们也提供旧版部署教程
+新版本介绍和下载指引看这个准没错！
 
-- [Windows 教程（旧版）](/manual/deployment/win_old)
-- [Android 教程（旧版）](/manual/deployment/android_old)
-- [Linux 教程（旧版）](/manual/deployment/linux_old)
+- [版本介绍和下载链接](/manual/deployment/version)
 
 ### 附加功能
 

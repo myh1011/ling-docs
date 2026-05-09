@@ -85,18 +85,10 @@ export default withMermaid(
             text: '部署方法（新版）',
             collapsed: false,
             items: [
+              { text: '版本介绍与下载大全', link: '/manual/deployment/version' }
               { text: 'Windows部署', link: '/manual/deployment/win' },
               { text: 'Android部署', link: '/manual/deployment/android' },
               { text: 'Linux部署', link: '/manual/deployment/linux' },
-            ]
-          },
-          {
-            text: '部署方法（旧版 - 0.3.1版之前）',
-            collapsed: false,
-            items: [
-              { text: 'Windows部署', link: '/manual/deployment/win_old' },
-              { text: 'Android部署', link: '/manual/deployment/android_old' },
-              { text: 'Linux部署', link: '/manual/deployment/linux_old' },
             ]
           },
           {
